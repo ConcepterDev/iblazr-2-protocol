@@ -5,7 +5,7 @@ iblazr sync with the app by bluetooth.
 
 IOS: official tool for iblazr original and iblazr 2 [iblazr SDK](https://github.com/ConcepterDev/iblazr-sdk-ios)
 
-Android: *soon*
+Android: [iblazr 2 SDK](https://github.com/ConcepterDev/iblazr-sdk-android)
 
 ## Basical information
 iblazr 2 works with `FAFA` service and `FAF1` characteristic
